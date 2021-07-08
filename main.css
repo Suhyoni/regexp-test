@@ -1,0 +1,20 @@
+* {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.hi {
+  font-size: 20px;
+  font-weight: 700;
+  color: #FF00FF;
+  display: flex;
+  width: 300px;
+  padding: 15px;
+  background-color: #FFF;
+  border: 1px solid #666;
+  border-radius: 20px;
+}
+
+.hi:hover {
+  font-size: 25px;
+  border: 2px solid rgb(65, 65, 65);
+}
